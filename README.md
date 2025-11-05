@@ -105,6 +105,16 @@ ter komentar [10%] na delovanje. Oceno pridobite iz Github dokumentacije!
 
 
 
+
+
+
+
+
+
+
+
+
+
 Konfiguracija Timerja:
 <img width="825" height="798" alt="image" src="https://github.com/user-attachments/assets/9c90cf61-f243-4da8-96ac-854e37e18622" />
 Konfiguracija pinouta:
