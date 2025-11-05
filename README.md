@@ -110,6 +110,7 @@ Konfiguracija Timerja:
 Konfiguracija pinouta:
 <img width="646" height="555" alt="image" src="https://github.com/user-attachments/assets/8d9f55b5-b7c2-4bcc-8c78-27485400c086" />
 Slika osciloskopa pri 50%:
-<img width="800" height="480" alt="SDS00002222" src="https://github.com/user-attachments/assets/5134887c-6b10-492e-842e-6f407e7d0a89" />
-Slika osciloskopa pri 25%:
 <img width="800" height="480" alt="SDS00001" src="https://github.com/user-attachments/assets/936c8cfa-a769-4079-b29b-f5033aed6960" />
+
+Slika osciloskopa pri 25%:
+<img width="800" height="480" alt="SDS00002222" src="https://github.com/user-attachments/assets/5134887c-6b10-492e-842e-6f407e7d0a89" />
