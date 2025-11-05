@@ -107,10 +107,9 @@ ter komentar [10%] na delovanje. Oceno pridobite iz Github dokumentacije!
 
 Konfiguracija Timerja:
 <img width="825" height="798" alt="image" src="https://github.com/user-attachments/assets/9c90cf61-f243-4da8-96ac-854e37e18622" />
-
+Konfiguracija pinouta:
 
 <img width="623" height="569" alt="image" src="https://github.com/user-attachments/assets/2c69c19f-9632-4fa5-b987-e20429cd4b84" />
-Konfiguracija pinouta:
 
 
 Slika osciloskopa pri 50%:
